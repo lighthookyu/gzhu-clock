@@ -1,2 +1,4 @@
-# gzhu-login
-用于登录gzhu门户
+# gzhu-clock
+
+封装了打卡的功能
+需要对应的python环境。运行后打开(localhost:5000/clock-in?username=学号&password=密码)
